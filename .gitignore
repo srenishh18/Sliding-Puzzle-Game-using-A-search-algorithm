@@ -48,6 +48,9 @@ gradle/
 nbproject/
 .nb-gradle/
 
+# Executables
+*.exe
+
 # Misc
 *.log
 .env
